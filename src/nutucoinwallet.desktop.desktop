@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nutucoin
+GenericName=Nutucoin wallet
+Comment=Nutucoin wallet
+Exec=nutucoin %U
+Terminal=false
+Type=Application
+Icon=nutucoin
+MimeType=x-scheme-handler/nutucoin;
+Categories=Office;Finance;
+Version=1.0.0
+GenericName[en_US]=Nutucoin wallet
+Comment[en_US]=Nutucoin wallet
+Name[en_US]=nutucoinwallet.desktop
