@@ -13,7 +13,7 @@ ln -s ../nutucoin cryptonote
 Alternative way is to create git submodule:
 
 ```
-git submodule add https://github.com/nutucoin/nutucoinwallet.git cryptonote
+git submodule add https://github.com/nutucoin/nutucoin.git cryptonote
 ```
 
 **3. Build**
