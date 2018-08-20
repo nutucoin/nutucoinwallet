@@ -1,5 +1,4 @@
-
-set(CN_PROJECT_NAME "nutucoin")
-set(CN_CURRENCY_DISPLAY_NAME "Nutucoin")
+set(CN_PROJECT_NAME "Nutucoin-GUI")
+set(CN_CURRENCY_DISPLAY_NAME "Nutucoin-GUI")
 set(CN_CURRENCY_TICKER "NTU")
-set(CN_VERSION 1.0.0)
+set(CN_VERSION 1.0.1)
