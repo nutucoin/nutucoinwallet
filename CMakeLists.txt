@@ -65,6 +65,7 @@ set(CRYPTONOTE_SOURCES
   cryptonote/external/miniupnpc/receivedata.c
   cryptonote/external/miniupnpc/upnpcommands.c
   cryptonote/external/miniupnpc/upnpreplyparse.c
+  cryptonote/src/Common/DnsTools.cpp
   cryptonote/src/Common/Base58.cpp
   cryptonote/src/Common/CommandLine.cpp
   cryptonote/src/Common/Util.cpp
